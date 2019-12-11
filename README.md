@@ -1,2 +1,7 @@
-# decks
-Decks
+# Decks
+
+# Mage
+Reno: AAECAf0EHk2KAckDqwTFBMsE7AeNCL7sAu72Asb4Arn/AqCAA+iJA4OWA6CbA4qeA8KhA/yjA4ukA5KkA7+kA/WsA/qsA+yvA/CvA+ewA4exA5GxA+G2AwAA
+
+Cyclone: AAECAf0EBMsE7vYClpoD+KwDDdMBqwTmBOEHvAjIhwPSiQODlgOfmwPimwP/nQP7rAP9rAMA
+
